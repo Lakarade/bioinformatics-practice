@@ -1,4 +1,4 @@
-#Fuction for calculation of GC content
+#Function for calculation of GC content
 def gc_content(sequence):
 
   #Counting G and C nucleotides
